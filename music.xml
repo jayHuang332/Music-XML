@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE musicCollection SYSTEM "music.dtd">
+<musicCollection>	
+	<music id="a" artists="a" albums="a">
+		<name>You Raise Me Up</name>
+	</music>
+</musicCollection>

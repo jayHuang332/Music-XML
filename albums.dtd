@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT albumCollection (album*)>
+<!ELEMENT album (name, artwork?)>
+<!ATTLIST album id ID #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT artwork EMPTY>
+<!ATTLIST artwork src CDATA #REQUIRED>
+<!ATTLIST album artists IDREFS #REQUIRED>

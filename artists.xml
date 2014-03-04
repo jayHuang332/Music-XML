@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE artistCollection SYSTEM "artists.dtd">
+<artistCollection>
+  <artist id="a">
+  	<name>Celtic Woman</name>
+  </artist>
+</artistCollection>

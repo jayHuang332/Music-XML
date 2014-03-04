@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT musicCollection (music)>
+<!ELEMENT music (name)>
+<!ATTLIST music id ID #REQUIRED>
+<!ATTLIST music artists IDREFS #REQUIRED>
+<!ATTLIST music albums IDREFS #REQUIRED>
+<!ELEMENT name (#PCDATA)>

@@ -3,3 +3,4 @@
 <!ELEMENT artist (name)>
 <!ATTLIST artist id ID #REQUIRED>
 <!ELEMENT name (#PCDATA)>
+<!ELEMENT introduction (#PCDATA)>

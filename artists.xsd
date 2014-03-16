@@ -13,11 +13,13 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="name"/>
+        <xs:element ref="introduction"/>
       </xs:sequence>
       <xs:attribute name="id" type="xs:ID" use="required"/>
     </xs:complexType>
   </xs:element>
 
   <xs:element name="name" type="xs:string" />
+  <xs:element name="introduction" type="xs:string" />
 
 </xs:schema>

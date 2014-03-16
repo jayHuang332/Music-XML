@@ -5,5 +5,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:noNamespaceSchemaLocation="artists.xsd">
   <artist id="a">
   	<name>Celtic Woman</name>
+  	<introduction>
+    	Celtic Woman is an all-female Irish musical ensemble conceived and assembled by Sharon Browne and David Downes, a former musical director of the Irish stage show Riverdance.
+    </introduction>
   </artist>
 </artistCollection>

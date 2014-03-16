@@ -2,7 +2,7 @@
 <!DOCTYPE albumCollection SYSTEM "albums.dtd">
 <albumCollection xmlns="http://www.w3school.com.cn"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://www.w3school.com.cn albums.xsd">
+xsi:noNamespaceSchemaLocation="albums.xsd">
   <album id="a" artists="a">  
   	<name>Holidays &amp; Hits</name>
   	<artwork src="a.png" />

@@ -2,7 +2,7 @@
 <!DOCTYPE musicCollection SYSTEM "music.dtd">
 <musicCollection xmlns="http://www.w3school.com.cn"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://www.w3school.com.cn music.xsd">	
+xsi:noNamespaceSchemaLocation="music.xsd">	
 	<music id="a" artists="a" albums="a">
 		<name>You Raise Me Up</name>
 	</music>

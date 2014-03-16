@@ -10,15 +10,12 @@
   <xs:element name="music">
     <xs:complexType>
       <xs:sequence>
-        <xs:element name="name"/>
+        <xs:element ref="name"/>
       </xs:sequence>
-      <xs:attribute name="id" type="xs:string" use="required"/>
-      <xs:attribute name="artists" type="xs:IDREFS" use="required"/>
-      <xs:attribute name="albums" type="xs:IDREFS" use="required"/>
+      <xs:attribute name="id" type="xs:string" use="required" />
+      <xs:attribute name="artists" type="xs:IDREFS" use="required" />
+      <xs:attribute name="albums" type="xs:IDREFS" use="required" />
     </xs:complexType>
   </xs:element>
-  <xs:element name="name">
-    <xs:complexType mixed="true">
-    </xs:complexType>
-  </xs:element>
+  <xs:element name="name" type="xs:string" />
 </xs:schema>

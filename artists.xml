@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE artistCollection SYSTEM "artists.dtd">
-<artistCollection>
+<artistCollection xmlns="http://www.w3school.com.cn"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.w3school.com.cn artists.xsd">
   <artist id="a">
   	<name>Celtic Woman</name>
   </artist>

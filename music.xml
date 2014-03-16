@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE musicCollection SYSTEM "music.dtd">
-<musicCollection>	
+<musicCollection xmlns="http://www.w3school.com.cn"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.w3school.com.cn music.xsd">	
 	<music id="a" artists="a" albums="a">
 		<name>You Raise Me Up</name>
 	</music>

@@ -12,7 +12,7 @@
       <xs:sequence>
         <xs:element ref="name"/>
       </xs:sequence>
-      <xs:attribute name="id" type="xs:string" use="required" />
+      <xs:attribute name="id" type="xs:ID" use="required" />
       <xs:attribute name="artists" type="xs:IDREFS" use="required" />
       <xs:attribute name="albums" type="xs:IDREFS" use="required" />
     </xs:complexType>

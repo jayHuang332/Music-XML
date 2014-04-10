@@ -6,5 +6,7 @@ xsi:noNamespaceSchemaLocation="albums.xsd">
   <album id="a" artists="a">  
   	<name>Holidays &amp; Hits</name>
   	<artwork src="a.png" />
+  	<price currency="usd">10</price>
+  	<date>1992-12-6</date>
   </album>
 </albumCollection>

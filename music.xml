@@ -5,5 +5,6 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:noNamespaceSchemaLocation="music.xsd">	
 	<music id="a" artists="a" albums="a">
 		<name>You Raise Me Up</name>
+		<price currency="usd">0.99</price>
 	</music>
 </musicCollection>
